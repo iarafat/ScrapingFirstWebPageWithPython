@@ -1,0 +1,100 @@
+Apple Inc. , 318.73
+Microsoft Corporation , 167.10
+Taiwan Semiconductor Manufacturing Company Limited , 58.58
+Intel Corporation , 59.60
+Cisco Systems, Inc. , 49.02
+Oracle Corporation , 55.13
+SAP SE , 139.96
+Adobe Inc. , 349.74
+salesforce.com, inc. , 182.23
+NVIDIA Corporation , 249.28
+Accenture plc , 209.20
+ASML Holding N.V. , 300.04
+Texas Instruments Incorporated , 131.70
+Broadcom Inc. , 308.79
+International Business Machines Corporation , 138.31
+QUALCOMM Incorporated , 95.91
+Fidelity National Information Services, Inc. , 147.09
+Sony Corporation , 72.48
+Intuit Inc. , 282.85
+Micron Technology, Inc. , 57.66
+VMware, Inc. , 151.36
+Uber Technologies, Inc. , 35.13
+Advanced Micro Devices, Inc. , 50.93
+ServiceNow, Inc. , 312.52
+Applied Materials, Inc. , 62.85
+Shopify Inc. , 454.88
+Infosys Limited , 10.88
+Lam Research Corporation , 308.00
+Analog Devices, Inc. , 119.47
+Autodesk, Inc. , 193.35
+Workday, Inc. , 181.06
+NXP Semiconductors N.V. , 133.84
+Dell Technologies Inc. , 50.34
+Cognizant Technology Solutions Corporation , 62.77
+TE Connectivity Ltd. , 100.18
+Amphenol Corporation , 109.45
+Atlassian Corporation Plc , 132.85
+HP Inc. , 21.97
+Motorola Solutions, Inc. , 176.12
+Square, Inc. , 69.38
+Telefonaktiebolaget LM Ericsson (publ) , 9.01
+Canon Inc. , 28.00
+KLA Corporation , 178.73
+FleetCor Technologies, Inc. , 310.04
+Fortive Corporation , 78.78
+Fortive Corporation , 993.76
+Microchip Technology Incorporated , 109.41
+Xilinx, Inc. , 102.89
+VeriSign, Inc. , 214.00
+STMicroelectronics N.V. , 27.89
+Splunk Inc. , 157.96
+Palo Alto Networks, Inc. , 242.07
+CGI Inc. , 86.72
+Corning Incorporated , 30.06
+ANSYS, Inc. , 270.28
+Synopsys, Inc. , 151.86
+Skyworks Solutions, Inc. , 124.17
+Cadence Design Systems, Inc. , 73.73
+Western Digital Corporation , 68.26
+Fortinet, Inc. , 117.49
+Keysight Technologies, Inc. , 105.37
+CDW Corporation , 136.85
+Hewlett Packard Enterprise Company , 15.10
+Marvell Technology Group Ltd. , 28.49
+Garmin Ltd. , 99.04
+Check Point Software Technologies Ltd. , 113.75
+NortonLifeLock Inc. , 28.13
+Paycom Software, Inc. , 296.24
+Arista Networks, Inc. , 221.87
+RingCentral, Inc. , 192.89
+Maxim Integrated Products, Inc. , 61.37
+Seagate Technology plc , 61.08
+SS&C Technologies Holdings, Inc. , 63.47
+Akamai Technologies, Inc. , 95.31
+Citrix Systems, Inc. , 117.22
+Okta, Inc. , 125.83
+Broadridge Financial Solutions, Inc. , 131.00
+Leidos Holdings, Inc. , 103.39
+Gartner, Inc. , 161.17
+NetApp, Inc. , 62.42
+Lyft, Inc. , 46.52
+Teledyne Technologies Incorporated , 376.88
+Zebra Technologies Corporation , 252.74
+Qorvo, Inc. , 114.74
+CrowdStrike Holdings, Inc. , 63.45
+DocuSign, Inc. , 72.53
+EPAM Systems, Inc. , 232.43
+Open Text Corporation , 46.94
+GoDaddy Inc. , 72.06
+Slack Technologies, Inc. , 22.46
+Datadog, Inc. , 41.19
+Tyler Technologies, Inc. , 309.03
+PagSeguro Digital Ltd. , 36.00
+Teradyne, Inc. , 70.29
+Fair Isaac Corporation , 404.97
+StoneCo Ltd. , 42.04
+Jack Henry & Associates, Inc. , 149.47
+ASE Technology Holding Co., Ltd. , 5.24
+Ubiquiti Inc. , 170.58
+Trimble Inc. , 44.14
